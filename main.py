@@ -4,7 +4,7 @@ import requests
 from model import get_class
 
 # Замени 'YOUR_TELEGRAM_BOT_TOKEN' на токен своего бота
-bot = telebot.TeleBot('7876846172:AAGNehL8YkrvbZJrMg9ykt2n3hQrcKXguPw')
+bot = telebot.TeleBot('Ваш токен токен')
 
 def get_duck_image_url():
     url = 'https://random-d.uk/api/random'
